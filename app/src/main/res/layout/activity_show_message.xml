@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_show_message"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#131b2f"
+    tools:context="com.zhorifiandi.simmulettes.ShowMessageActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="69dp">
+    <TextView
+        android:text="From:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="26dp"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="left"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:text=" "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp"
+        android:id="@+id/sendercontent"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_toRightOf="@+id/textView2"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="left"
+        android:layout_toEndOf="@+id/textView2" />
+
+    <TextView
+        android:text="Message:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="18dp"
+        android:textColor="#FFFFFF"
+        android:gravity="left"
+        android:id="@+id/textView3"
+        android:layout_gravity="left"/>
+
+    <TextView
+        android:text="........"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_alignRight="@+id/sendercontent"
+        android:layout_alignEnd="@+id/sendercontent"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="15dp"
+        android:id="@+id/messagecontent"
+        android:layout_gravity="left"/>
+
+    <Button
+        android:text="Reply"
+        android:layout_width="50pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#19233c"
+        android:textColor="#FFFFFF"
+        android:alpha="0.9"
+        android:id="@+id/reply_button"
+        android:layout_below="@+id/messagecontent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="right"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

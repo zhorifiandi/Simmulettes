@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421342405143",
+    "firebase_url": "https://simmulettes-80e25.firebaseio.com",
+    "project_id": "simmulettes-80e25",
+    "storage_bucket": "simmulettes-80e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421342405143:android:d2f657e05d5610f0",
+        "android_client_info": {
+          "package_name": "com.zhorifiandi.simmulettes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421342405143-94rr94t83e1tq32a845cmeliorokhqqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhorifiandi.simmulettes",
+            "certificate_hash": "ca61e2bb2ec98fce9963df6bdb0bd34966d45e4f"
+          }
+        },
+        {
+          "client_id": "421342405143-uqhlv38m4gesu44d791cg9pi5ns3j9au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfBWJjxmFKku5M6I_VYPYo-g3Mlcsw0QI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421342405143-uqhlv38m4gesu44d791cg9pi5ns3j9au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

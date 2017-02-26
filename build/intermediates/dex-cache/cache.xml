@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.0_78cc44d7a4b1edb6588dcb271ba594bf27a50cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.0_d102d2bdf09a89871432469ddeee45e1db1dfca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.0_26c53402e6b066264a03fb4cb829f761ed0da116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.0_03cd3ce5fbeeb602964b5ab95ed6b8b1f2e056d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_b794b92d56f0fadfc5907c104b0388290f934042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.0_817b8905751c8ed27c29aab03e8a000b9d0522c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.0_076783faf936f168a27a557e75653b3dc8a5eb64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.0_7848ef0047cf50667d93627d9dbb1fd023683a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.2.0_5f1358da229ce6426bdac5132e85e1f5ad14177b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.2.0_b6f13c87c2504ed241d66409b52777fef4389968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.0_c9228654fa44a9e63ca40fc28321c891a3823bcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.2.0_9e9e303e5ecd353653d64b9d89d45b9cf0f1f426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.github.anastr/speedviewlib/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0cda81279aef9d25c0402ee2046b83bc740fd38">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.anastr-speedviewlib-1.1.3_f269f323b241414d795a78ad4f11da02ee1f176c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.0_2daf86ea348486e6daac1095a685907b7e9c846d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.0_f16ea3ee9158efda64e64e32c12b290c3e685e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02ce002efac5dc2a082de05dc819d69e68a882ce">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_35d66dcdb7f9976037a32d85eefb2241c07d4c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_64c19a63fff0b875ba8a8873670e3a1ecbd08f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.2.0_b03a1add88aeff0b592a4c4d8b9cd46395e2833e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.2.0_3db01dd7544110a51f3cc5f7bc74a92cbcc10b17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.0_b795967d2b177e28fbd34743c9bd05ff2e9f8dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.0_ad8e07e209ae6af976b0fbc6384f0cab06640bdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.0_c468be8089c00ff5ab02a7c84cacaddceeb03162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.2.1/3095c5145d7966e555c113c6a3fc33a107badc80/realm-annotations-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3095c5145d7966e555c113c6a3fc33a107badc80">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-2.2.1_13c08db3fe3fe753c0742f710840131321a1e96a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.0_0e19a109a4c9ef227efbce97fe4f42fd5a52883e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.0_6179c7a62ced1a81e9a31f4fdc05c743944e4454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.0_d9771e3520041446eb5a36c72ae27d8c20f68d79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_4f6bb334d13d055125676b7c8220c933793570ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.0_f8fcea38dfbcca7e7e56d6c73a9600cb67ca5370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d16c820d6943f6bbfe74699ca2ce2ad4dd44829e">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-2.2.1_e17794d116fdf88f73438d3f12b034485bc0d2cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.0_79d4c0b95ae7b9dc2c58bcf381ec5a1ee029bbb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_7d70768d71462926d02b74ccc616d9db9db05e15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.2.0_f3db935e8425f11879b88f7bcb8f5ca355fe6189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.2_1e145c58fb86b0a87285eb924eb9ea7db1c3c229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_5298d1ae885dbf601e99ccea1b55883515fc03eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.2.0_98be5e96730acd2b709d9036c1429c6dcc94faa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_0bfab6d60aa267d5c870fd02aaaab461761fc8c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.2.0_8a66ce3b4fa56226a615099860376a945f26aa8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.2.0_4d78824a3477798fb6aeda287eddc9173fd86c10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_d1812b64a34cb7840c3db27f0148339a11ae3497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.0_9fcfb42ca7c5b4e16a6ec47f0ae59c103f10f086/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.0_5180da66f987902d5efa84332656066e54643c5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.2.0_25e980c4ae0db290644472fc286011f69fd02709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.0_9cae63a9677e69c1a18be84895b592dbb07990f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_e1e00bcd50639e3b2d9725ecc4d065cac23f375f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.2.0_8e6b6dd63dd1c4bd396844fca92b5d05bee71074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.0_8f2af69568edfb7bcaa013dd02416bbf0454dd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.0_e28f3ad8e500cc0fb53e352b5fce68e71dca8656/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.0_ec5703e3dc5c8d217e9ac19174df81c95f64856f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_81d7da4326c7e75bec53245469ba24dceb74acee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.2.0_5f064ea32597609f222ea04b66ea1936f7662f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.2.0_e604cfda71dd71ce7b911c66ab73a59056d46c0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.2.0_b30ad40769804cd1651cc4d06fe5577e5c80a38f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.0_908e25c1254d0a1ded0bf2bc64a43597a5c9fbcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.2.0_6c68a044b5bf5e959a14d847fb23ed87c8b11767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_cc5516b157f6b2d5afdd7b047d3b350a350387a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.2.0_7724c9974f9115560b78af7a1fcdf1468189f1ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_9b8c9ee566e9be1e24f133fea38d7a2e7d7d727a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.2.0_87d7a2367e476881bd6c807eb2ebe4bb822a7674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.2.0_971e023670b7fc8ff5e256b22ef1efde3398f852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_6d002c5019f2fc32f7728c42b73eb59ce37b1eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.0_62bb91f772c897cf41bf2ef2416a3d6fba8c20ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_70aded9a3535255861c73d544a789957db0b67f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.0_ee1d3c0bc6ae722f5f9a79404317305aae23eeb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.2.0_eb197a4c8d2c75714201cd52f0819f860bef4db5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.2.0_9681c3f762d94ed4b21c9ab48faef165a8e12749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.2.0_941c6d04d0888538739e37be2fd06fc3a6412406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79bf542edc560e1dc545c551a628b8ccfb3711c8">
+        <dex dex="/Users/zhorifiandi/Downloads/Simmulletes-44bc659c756ecb00da029292878ed74fdd9b4860-44bc659c756ecb00da029292878ed74fdd9b4860/Android/Simmulettes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d0311e7583dbec33a52d9fa66b3fa6f30e4a3495/classes.dex" />
+    </item>
+
+</items>
