@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.sashinovitasari.simulletes.TheoryTestMainMenu"
+    android:background="@drawable/driver"
+    >
+<RelativeLayout
+    android:layout_width="570dp"
+    android:layout_height="300dp"
+    android:layout_centerHorizontal="true"
+    android:background="#b3303030"
+    android:layout_centerVertical="true">
+
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        >
+
+        <TextView
+            android:textColor="@android:color/white"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="DRIVING KNOWLEDGE TEST SIMULATION"
+            android:textSize="30dp"
+
+            />
+
+        <TextView
+            android:textColor="@android:color/white"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="This simulation will help you to test your knowledge about driving. In order to pass the test, your test score must achieve minimum score 86"
+            android:layout_marginTop="160dp" />
+
+        <Button
+            android:id="@+id/test"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="20dp"
+            android:background="#38171c"
+            android:textColor="@android:color/darker_gray"
+            android:text="Test"
+            />
+        <Button
+            android:id="@+id/practice"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="250dp"
+            android:background="#38171c"
+            android:textColor="@android:color/darker_gray"
+            android:text="Practice"
+            />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="260dp"
+            android:layout_marginTop="150dp">
+
+            <TextView
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Last Test Score"
+                android:layout_centerHorizontal="true"
+                />
+            <TextView
+                android:textColor="@android:color/white"
+                android:id="@+id/lastP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:textColor="@android:color/white"
+                android:id="@+id/lastS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NOT PASSED"
+                android:layout_centerHorizontal="true"
+                android:textSize="15dp"
+                android:layout_marginTop="70dp"
+                />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="430dp"
+            android:layout_marginTop="150dp">
+
+            <TextView
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Last Test Score"
+                android:layout_centerHorizontal="true"
+                />
+            <TextView
+                android:textColor="@android:color/white"
+                android:id="@+id/lastBP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:textColor="@android:color/white"
+                android:id="@+id/lastBS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NOT PASSED"
+                android:layout_centerHorizontal="true"
+                android:textSize="15dp"
+                android:layout_marginTop="70dp"
+                />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>
+
+</RelativeLayout>

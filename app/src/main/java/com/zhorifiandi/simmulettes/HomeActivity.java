@@ -46,8 +46,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     //URL to RegisterDevice.php
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

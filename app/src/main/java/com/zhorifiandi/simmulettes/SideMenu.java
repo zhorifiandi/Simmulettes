@@ -35,8 +35,7 @@ public class SideMenu extends Activity {
         setContentView(R.layout.side_menu);
         initScoreDB();
 
-
-        menu = new String[]{"Message","Driving Test Simulation","Friends"};
+        menu = new String[]{"Home","Driving Test Simulation","Send a Message"};
         dLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         dList = (ListView) findViewById(R.id.left_drawer);
         dCont = (RelativeLayout) findViewById(R.id.left_cont);
@@ -72,10 +71,15 @@ public class SideMenu extends Activity {
                 if(menu[position].equals("Driving Test Simulation")) {//Test Simulation
                     detail = new SimulationMainMenu();
                     detail.setArguments(args);
-                }else if (menu[position].equals("Friends")){            //Friend list
-
+                    if (detail!=null) fragmentManager.beginTransaction().replace(R.id.content_frame, detail).commit();
+                }else if (menu[position].equals("Home")){            //Friend list
+                    Intent intent = new Intent(getApplication(), HomeActivity.class);
+                    startActivity(intent);
+                }else{
+                    Intent intent = new Intent(getApplication(), ChatActivity.class);
+                    startActivity(intent);
                 }
-                if (detail!=null) fragmentManager.beginTransaction().replace(R.id.content_frame, detail).commit();
+
             }
         });
     }
