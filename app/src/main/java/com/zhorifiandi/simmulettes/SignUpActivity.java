@@ -12,10 +12,27 @@ package com.zhorifiandi.simmulettes;
         import android.widget.TextView;
         import android.widget.Toast;
 
+        import com.android.volley.AuthFailureError;
+        import com.android.volley.Request;
+        import com.android.volley.RequestQueue;
+        import com.android.volley.Response;
+        import com.android.volley.VolleyError;
+        import com.android.volley.toolbox.StringRequest;
+        import com.android.volley.toolbox.Volley;
         import com.google.android.gms.tasks.OnCompleteListener;
         import com.google.android.gms.tasks.Task;
         import com.google.firebase.auth.AuthResult;
         import com.google.firebase.auth.FirebaseAuth;
+        import com.google.firebase.auth.FirebaseUser;
+        import com.zhorifiandi.simmulettes.firebase.SharedPrefManager;
+
+        import org.json.JSONException;
+        import org.json.JSONObject;
+
+        import java.util.HashMap;
+        import java.util.Map;
+
+        import static com.zhorifiandi.simmulettes.Connection.EndPoints.URL_REGISTER_DEVICE;
 
 public class SignUpActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -47,7 +64,7 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
             finish();
 
             //and open profile activity
-            startActivity(new Intent(getApplicationContext(), HomeActivity.class));
+            startActivity(new Intent(getApplicationContext(), MenuActivity.class));
         }
 
         //initializing views
@@ -96,7 +113,8 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
                         if(task.isSuccessful()){
                             finish();
                             Toast.makeText(SignUpActivity.this,"Sign Up Success!",Toast.LENGTH_LONG).show();
-                            //startActivity(new Intent(getApplicationContext(), LoginActivity.class));
+                            sendTokenToServer();
+                            startActivity(new Intent(getApplicationContext(), MenuActivity.class));
                         }else{
                             //display some message here
                             Toast.makeText(SignUpActivity.this,"Registration Error",Toast.LENGTH_LONG).show();
@@ -119,5 +137,60 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
             startActivity(new Intent(this, LoginActivity.class));
         }
 
+    }
+
+    //storing token to mysql server
+    private void sendTokenToServer() {
+        //initializing firebase authentication object
+        firebaseAuth = FirebaseAuth.getInstance();
+        //getting current user
+        FirebaseUser user;
+        user = firebaseAuth.getCurrentUser();
+
+
+        progressDialog = new ProgressDialog(this);
+        progressDialog.setMessage("Logging in..");
+        progressDialog.show();
+
+        final String token = SharedPrefManager.getInstance(this).getDeviceToken();
+        final String email = user.getEmail();
+
+        if (token == null) {
+            progressDialog.dismiss();
+            Toast.makeText(this, "Token not generated", Toast.LENGTH_LONG).show();
+            return;
+        }
+
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, URL_REGISTER_DEVICE,
+                new Response.Listener<String>() {
+                    @Override
+                    public void onResponse(String response) {
+                        progressDialog.dismiss();
+                        try {
+                            JSONObject obj = new JSONObject(response);
+
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                    }
+                },
+                new Response.ErrorListener() {
+                    @Override
+                    public void onErrorResponse(VolleyError error) {
+                        progressDialog.dismiss();
+
+                    }
+                }) {
+
+            @Override
+            protected Map<String, String> getParams() throws AuthFailureError {
+                Map<String, String> params = new HashMap<>();
+                params.put("email", email);
+                params.put("token", token);
+                return params;
+            }
+        };
+        RequestQueue requestQueue = Volley.newRequestQueue(this);
+        requestQueue.add(stringRequest);
     }
 }

@@ -15,10 +15,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
+        android:layout_marginTop="67dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="69dp">
+        android:layout_alignParentStart="true">
     <TextView
         android:text="From:"
         android:layout_width="wrap_content"
@@ -31,7 +31,8 @@
         android:layout_marginTop="26dp"
         android:textColor="#FFFFFF"
         android:layout_gravity="left"
-        android:id="@+id/textView2" />
+        android:id="@+id/textView2"
+        android:textSize="24sp" />
 
     <TextView
         android:text=" "
@@ -44,8 +45,9 @@
         android:layout_alignBottom="@+id/textView2"
         android:layout_toRightOf="@+id/textView2"
         android:textColor="#FFFFFF"
-        android:layout_gravity="left"
-        android:layout_toEndOf="@+id/textView2" />
+        android:layout_gravity="right"
+        android:layout_toEndOf="@+id/textView2"
+        android:textSize="20sp" />
 
     <TextView
         android:text="Message:"
@@ -56,23 +58,25 @@
         android:layout_alignStart="@+id/textView2"
         android:layout_marginTop="18dp"
         android:textColor="#FFFFFF"
-        android:gravity="left"
+        android:gravity="right"
         android:id="@+id/textView3"
-        android:layout_gravity="left"/>
+        android:layout_gravity="left"
+        android:textSize="24sp" />
 
-    <TextView
-        android:text="........"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView3"
-        android:layout_alignRight="@+id/sendercontent"
-        android:layout_alignEnd="@+id/sendercontent"
-        android:textColor="#FFFFFF"
-        android:layout_marginTop="15dp"
-        android:id="@+id/messagecontent"
-        android:layout_gravity="left"/>
+        <TextView
+            android:text="........"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView3"
+            android:layout_alignRight="@+id/sendercontent"
+            android:layout_alignEnd="@+id/sendercontent"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="15dp"
+            android:id="@+id/messagecontent"
+            android:layout_gravity="left"
+            android:textSize="20sp" />
 
-    <Button
+        <Button
         android:text="Reply"
         android:layout_width="50pt"
         android:layout_height="wrap_content"

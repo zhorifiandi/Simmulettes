@@ -73,7 +73,7 @@ public class SideMenu extends Activity {
                     detail.setArguments(args);
                     if (detail!=null) fragmentManager.beginTransaction().replace(R.id.content_frame, detail).commit();
                 }else if (menu[position].equals("Home")){            //Friend list
-                    Intent intent = new Intent(getApplication(), HomeActivity.class);
+                    Intent intent = new Intent(getApplication(), MenuActivity.class);
                     startActivity(intent);
                 }else{
                     Intent intent = new Intent(getApplication(), ChatActivity.class);

@@ -158,7 +158,7 @@ public class ChatActivity extends AppCompatActivity implements RadioGroup.OnChec
                     public void onResponse(String response) {
                         progressDialog.dismiss();
 
-                        Toast.makeText(ChatActivity.this, response, Toast.LENGTH_LONG).show();
+                        //Toast.makeText(ChatActivity.this, response, Toast.LENGTH_LONG).show();
                     }
                 },
                 new Response.ErrorListener() {
@@ -197,7 +197,7 @@ public class ChatActivity extends AppCompatActivity implements RadioGroup.OnChec
                     public void onResponse(String response) {
                         progressDialog.dismiss();
 
-                        Toast.makeText(ChatActivity.this, response, Toast.LENGTH_LONG).show();
+                      //  Toast.makeText(ChatActivity.this, response, Toast.LENGTH_LONG).show();
                     }
                 },
                 new Response.ErrorListener() {

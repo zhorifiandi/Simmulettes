@@ -64,7 +64,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             //close this activity
             finish();
             //opening profile activity
-            startActivity(new Intent(getApplicationContext(), HomeActivity.class));
+            startActivity(new Intent(getApplicationContext(), MenuActivity.class));
         }
 
         //initializing views
@@ -114,7 +114,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                             //start the profile activity
                             sendTokenToServer();
                             finish();
-                            startActivity(new Intent(getApplicationContext(), HomeActivity.class));
+                            startActivity(new Intent(getApplicationContext(), MenuActivity.class));
                         }
                     }
                 });
@@ -162,7 +162,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                         progressDialog.dismiss();
                         try {
                             JSONObject obj = new JSONObject(response);
-                           // Toast.makeText(HomeActivity.this, obj.getString("message"), Toast.LENGTH_LONG).show();
+
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }
@@ -172,7 +172,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                     @Override
                     public void onErrorResponse(VolleyError error) {
                         progressDialog.dismiss();
-                        //Toast.makeText(HomeActivity.this, error.getMessage(), Toast.LENGTH_LONG).show();
+
                     }
                 }) {
 

@@ -12,8 +12,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SignUpActivity"></activity>
-        <activity android:name=".HomeActivity" />
+        <activity android:name=".SignUpActivity" />
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,7 +24,7 @@
             android:name=".MainActivity"
             android:screenOrientation="sensorLandscape"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
-        <activity android:name=".SideMenu"></activity>
+        <activity android:name=".SideMenu" />
         <activity android:name=".TheoryTest" />
         <activity android:name=".TheoryTestResult" />
         <activity android:name=".SimulationMainMenu" />
@@ -57,6 +56,14 @@
             android:enabled="true"
             android:exported="true" />
 
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_inbox"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".InboxActivity"
+            android:label="@string/title_activity_inbox"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
