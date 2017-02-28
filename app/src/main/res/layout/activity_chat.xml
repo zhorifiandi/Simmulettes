@@ -45,6 +45,7 @@
         android:backgroundTint="#FFFFFF"
         android:foreground="#FFFFFF"
         android:background="#262626"
+        android:alpha="0.4"
         android:layout_height="wrap_content"></Spinner>
 
     <EditText
