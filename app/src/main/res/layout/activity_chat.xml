@@ -23,9 +23,8 @@
             android:id="@+id/radioButtonSendAll"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#444444"
-            android:buttonTint="#444444"
-            android:alpha="0.5"
+            android:textColor="#FFFFFF"
+            android:buttonTint="#FFFFFF"
             android:text="Send to All" />
 
         <RadioButton
@@ -41,10 +40,11 @@
     <Spinner
         android:id="@+id/spinnerDevices"
         android:layout_width="match_parent"
-        android:textColor="#FFFFFF"
-        android:backgroundTint="#ffffff"
-        android:background="#FFFFFF"
-        android:foregroundTint="#FFFFFF"
+        android:layout_margin="10pt"
+        android:layout_gravity="center"
+        android:backgroundTint="#FFFFFF"
+        android:foreground="#FFFFFF"
+        android:background="#262626"
         android:layout_height="wrap_content"></Spinner>
 
     <EditText
